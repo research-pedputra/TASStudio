@@ -1,0 +1,5 @@
+# Install the app dependencies with: python -m pip install -r requirements.txt
+numpy>=1.26
+scipy>=1.11
+matplotlib>=3.8
+PySide6>=6.6
